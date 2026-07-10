@@ -62,7 +62,7 @@ Buy at 1, Sell at 4
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-10T06:40:48.813Z  
+**Submitted:** 2026-07-10T06:49:44.303Z  
 
 ```py
 n = int(input())
